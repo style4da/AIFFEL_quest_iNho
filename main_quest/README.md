@@ -3,6 +3,6 @@
 ```
 
 - 9/22. mainQuest.01 제출
-- 9/25. mainQuset.02 제출
+- 9/25. mainQuset.02 일요일 풀어보고 올림
 
 ```
